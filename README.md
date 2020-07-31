@@ -1,4 +1,4 @@
-# Williams Indicator and Ranging market conditions escaping
+# Williams and range filtering
 Automatic Expert MQL5 Expert Advisor based on Williams Indicator and ranging market escaping.
 
 ## Investing Strategy rules
