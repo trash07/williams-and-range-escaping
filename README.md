@@ -14,6 +14,13 @@ The original idea of the strategy is from [rockypoint](https://www.forexfactory.
 ## Usage 
 Download an *.ex5 release and enjoy! :smiley:
 
+## Contributing guideline
+You can contribute to this repository by all means:
+* Open an issue
+* Suggest strategy enhancement idea
+* Fork the repository, add additional code and create a pull request
+* If you want to ask a question, you can also open an issue for that
+
 ## Features tracking
 * [ ] Send mobile notification
 * [x] Ranging market detection 
