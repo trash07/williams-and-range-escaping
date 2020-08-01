@@ -1,7 +1,7 @@
 # Williams and range filtering
 Automatic Expert MQL5 Expert Advisor based on Williams Indicator and ranging market escaping.
 
-## Backtesting result (:warning: EA not yet ready for production)
+## :warning: This EA is not yet performing well
 Note: This EA is not yet ready for production. Your ideas and sugestions of enhancement are all welcome.
 ![Backtest output](/docs/tester_output.png)
 
