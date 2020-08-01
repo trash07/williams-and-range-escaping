@@ -1,6 +1,9 @@
 # Williams and range filtering
 Automatic Expert MQL5 Expert Advisor based on Williams Indicator and ranging market escaping.
 
+## Backtesting result
+![Backtest output](/docs/tester_output.png)
+
 ## Investing Strategy rules
 * Use Williams %r With only 50 median line
 * Make sure the market is trending (not ranging)
